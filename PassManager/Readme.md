@@ -1,1 +1,1 @@
-This is a simple pass manager that uses JDBC
+This is a simple pre-alpha pass manager.
